@@ -1,0 +1,14 @@
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\GrpcCurrencyConverterService.exe
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\appsettings.Development.json
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\appsettings.json
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\GrpcCurrencyConverterService.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\GrpcCurrencyConverterService.deps.json
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\GrpcCurrencyConverterService.runtimeconfig.json
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\GrpcCurrencyConverterService.pdb
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Google.Protobuf.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.AspNetCore.Server.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.Core.Api.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.Net.Client.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.Net.ClientFactory.dll
+C:\Users\Alexander\source\repos\GrpcCurrencyConverterService\GrpcCurrencyConverterService\obj\Docker\publish\Grpc.Net.Common.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2DIwb6BNbxnDdXeJ4i9byi431GcUo7fbhweNe3RdfJs=",
+  "Source": "GrpcCurrencyConverterService",
+  "BasePath": "_content/GrpcCurrencyConverterService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

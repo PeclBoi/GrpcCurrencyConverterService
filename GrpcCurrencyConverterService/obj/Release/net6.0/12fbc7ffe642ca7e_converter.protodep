@@ -1,0 +1,2 @@
+obj\Release\net6.0\Protos/Converter.cs \
+obj\Release\net6.0\Protos/ConverterGrpc.cs: Protos/converter.proto
